@@ -1,0 +1,11 @@
+npm i express mongoose
+npm i --save-dev nodemon dotenv concurrently
+npm i bcrypt
+npm i express-validator
+
+npm i jsonwebtoken
+npm i passport passport-jwt
+
+-------
+
+npm i redux react-redux react-router-dom-axios redux-thunk
