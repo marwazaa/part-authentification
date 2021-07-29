@@ -8,4 +8,4 @@ npm i passport passport-jwt
 
 -----------------------------
 
-npm i redux react-redux react-router-dom-axios redux-thunk
+npm i redux react-redux react-router-dom axios redux-thunk
